@@ -60,3 +60,8 @@
 /drush
 /drupal.phar
 /drupal
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/php.xml
+/.idea/modules.xml
+/.idea/d10_induction_project.iml
